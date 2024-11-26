@@ -1,3 +1,3 @@
-print("Hello universe!")
+print("Hello Earth!")
 print("HALLLLOOOOO")
 print("HOI")
